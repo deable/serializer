@@ -1,0 +1,33 @@
+{
+	"name": "deable/serializer",
+	"type": "library",
+	"description": "Simpliest way to use console on your nette project.",
+	"keywords": [
+		"nette",
+		"console"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lukas Povoda",
+			"email": "lupo112@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">= 7.0"
+	},
+	"archive": {
+		"exclude": [
+			".gitignore",
+			".editorconfig",
+			"*.md",
+			"*.yml",
+			"*.xml"
+		]
+	},
+	"autoload": {
+		"psr-4": {
+			"Deable\\Serializer\\": "src"
+		}
+	}
+}
