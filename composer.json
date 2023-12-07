@@ -1,10 +1,9 @@
 {
 	"name": "deable/serializer",
 	"type": "library",
-	"description": "Simpliest way to use console on your nette project.",
+	"description": "Simple serializer interface with default implementation.",
 	"keywords": [
-		"nette",
-		"console"
+		"serializer"
 	],
 	"license": "MIT",
 	"authors": [
