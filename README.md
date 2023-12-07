@@ -6,7 +6,7 @@ Simple serializer interface with default implementation.
 Requirements
 ------------
 
-This library was developed for PHP 7.3 or newer.
+This library was developed for PHP 7.0 or newer.
 
 Installation
 ------------
